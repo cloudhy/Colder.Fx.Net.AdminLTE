@@ -92,6 +92,10 @@
     <Compile Include="Base_SysManage\Base_User.cs" />
     <Compile Include="Base_SysManage\Base_UserRoleMap.cs" />
     <Compile Include="Base_SysManage\EnumType.cs" />
+    <Compile Include="obj\Debug\TemporaryGeneratedFile_036C0B5B-1481-4323-8D20-8F5ADCB23D92.cs" />
+    <Compile Include="obj\Debug\TemporaryGeneratedFile_5937a670-0e60-4077-877b-f7221da3dda1.cs" />
+    <Compile Include="obj\Debug\TemporaryGeneratedFile_E7A71F73-0F8D-4B9B-B56E-8E70B10BC5D3.cs" />
+    <Compile Include="ProjectManage\AppInfo.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
@@ -99,6 +103,12 @@
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
+    <None Include="bin\Debug\Coldairarrow.Entity.dll.config" />
+    <None Include="bin\Debug\Coldairarrow.Util.dll.config" />
+    <None Include="obj\Debug\03.Coldairarrow.Entity.csproj.CopyComplete" />
+    <None Include="obj\Debug\03.Coldairarrow.Entity.csproj.CoreCompileInputs.cache" />
+    <None Include="obj\Debug\03.Coldairarrow.Entity.csprojAssemblyReference.cache" />
+    <None Include="obj\Debug\DesignTimeResolveAssemblyReferencesInput.cache" />
     <None Include="packages.config" />
   </ItemGroup>
   <ItemGroup>
@@ -106,6 +116,64 @@
       <Project>{7095b12b-7ff2-4b6b-8c6c-654197edaa34}</Project>
       <Name>01.Coldairarrow.Util</Name>
     </ProjectReference>
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="bin\Debug\Aspose.Cells.dll" />
+    <Content Include="bin\Debug\Coldairarrow.Entity.dll" />
+    <Content Include="bin\Debug\Coldairarrow.Entity.pdb" />
+    <Content Include="bin\Debug\Coldairarrow.Util.dll" />
+    <Content Include="bin\Debug\Coldairarrow.Util.pdb" />
+    <Content Include="bin\Debug\Elasticsearch.Net.dll" />
+    <Content Include="bin\Debug\Elasticsearch.Net.xml" />
+    <Content Include="bin\Debug\EntityFramework.dll" />
+    <Content Include="bin\Debug\EntityFramework.SqlServer.dll" />
+    <Content Include="bin\Debug\EntityFramework.SqlServer.xml" />
+    <Content Include="bin\Debug\EntityFramework.xml" />
+    <Content Include="bin\Debug\Google.Protobuf.dll" />
+    <Content Include="bin\Debug\Google.Protobuf.xml" />
+    <Content Include="bin\Debug\ICSharpCode.SharpZipLib.dll" />
+    <Content Include="bin\Debug\Microsoft.Web.Infrastructure.dll" />
+    <Content Include="bin\Debug\MySql.Data.dll" />
+    <Content Include="bin\Debug\Nest.dll" />
+    <Content Include="bin\Debug\Nest.xml" />
+    <Content Include="bin\Debug\Newtonsoft.Json.dll" />
+    <Content Include="bin\Debug\Newtonsoft.Json.pdb" />
+    <Content Include="bin\Debug\Newtonsoft.Json.xml" />
+    <Content Include="bin\Debug\Npgsql.dll" />
+    <Content Include="bin\Debug\Npgsql.pdb" />
+    <Content Include="bin\Debug\Npgsql.xml" />
+    <Content Include="bin\Debug\Oracle.ManagedDataAccess.dll" />
+    <Content Include="bin\Debug\StackExchange.Redis.dll" />
+    <Content Include="bin\Debug\StackExchange.Redis.xml" />
+    <Content Include="bin\Debug\System.Linq.Dynamic.dll" />
+    <Content Include="bin\Debug\System.Runtime.CompilerServices.Unsafe.dll" />
+    <Content Include="bin\Debug\System.Runtime.CompilerServices.Unsafe.xml" />
+    <Content Include="bin\Debug\System.Threading.Tasks.Extensions.dll" />
+    <Content Include="bin\Debug\System.Threading.Tasks.Extensions.xml" />
+    <Content Include="bin\Debug\System.ValueTuple.dll" />
+    <Content Include="bin\Debug\System.ValueTuple.xml" />
+    <Content Include="bin\Debug\System.Web.Mvc.dll" />
+    <Content Include="bin\Debug\System.Web.Mvc.xml" />
+    <Content Include="bin\Debug\System.Web.Razor.dll" />
+    <Content Include="bin\Debug\System.Web.Razor.xml" />
+    <Content Include="bin\Debug\System.Web.WebPages.Deployment.dll" />
+    <Content Include="bin\Debug\System.Web.WebPages.Deployment.xml" />
+    <Content Include="bin\Debug\System.Web.WebPages.dll" />
+    <Content Include="bin\Debug\System.Web.WebPages.Razor.dll" />
+    <Content Include="bin\Debug\System.Web.WebPages.Razor.xml" />
+    <Content Include="bin\Debug\System.Web.WebPages.xml" />
+    <Content Include="bin\Debug\zh-Hans\EntityFramework.resources.dll" />
+    <Content Include="bin\Debug\zh-Hans\EntityFramework.SqlServer.resources.dll" />
+    <Content Include="bin\Debug\zh-Hans\System.Web.Mvc.resources.dll" />
+    <Content Include="bin\Debug\zxing.dll" />
+    <Content Include="bin\Debug\zxing.pdb" />
+    <Content Include="bin\Debug\zxing.xml" />
+    <Content Include="obj\Debug\03.Coldairarrow.Entity.csproj.FileListAbsolute.txt" />
+    <Content Include="obj\Debug\Coldairarrow.Entity.dll" />
+    <Content Include="obj\Debug\Coldairarrow.Entity.pdb" />
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="obj\Debug\TempPE\" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>
